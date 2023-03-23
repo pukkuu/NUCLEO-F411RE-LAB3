@@ -1,0 +1,4 @@
+../Core/Src/motor_control.c:31:6:MotorSetDuty	16	static
+../Core/Src/motor_control.c:44:7:MotorReadRPM	16	static
+../Core/Src/motor_control.c:51:6:MotorControlRPM	32	static
+../Core/Src/motor_control.c:71:7:ComputeLowpassConstant	16	static
